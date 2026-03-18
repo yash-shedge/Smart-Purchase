@@ -1,5 +1,5 @@
 # Smart Purchase
-Smart Purchase is a web application that helps users compare product prices across platforms like Amazon, Flipkart, and Croma.
+Smart Purchase is a web application that helps users compare product prices across various e-commerce platforms.
 
 # Features
 - Product price comparison
